@@ -65,3 +65,13 @@ The code will be made publicly available upon publication of the paper.
   <img width="30%" alt="deeplift result 2" src="https://github.com/user-attachments/assets/6258cc26-3ee9-443c-a0c2-680274c3a34f" />
 </p>
 
+
+
+## t-SNE
+
+<p align="center">
+  <img width="45%" alt="tsne result 1" src="https://github.com/user-attachments/assets/df6ef630-1ad0-42cb-9784-daef8c9f3e21" />
+  <img width="54%" alt="tsne result 2" src="https://github.com/user-attachments/assets/ec2cd23f-bd05-41ff-967b-5313b56dc423" />
+</p>
+
+
