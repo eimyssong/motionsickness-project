@@ -75,3 +75,12 @@ The code will be made publicly available upon publication of the paper.
 </p>
 
 
+
+
+
+## Confusion Matrix
+
+<p align="center">
+  <img width="49%" alt="confusion matrix result 1" src="https://github.com/user-attachments/assets/b5e7b5e6-38a5-437e-98f3-f72d8e1d1849" />
+  <img width="49%" alt="confusion matrix result 2" src="https://github.com/user-attachments/assets/e378de99-3510-490f-9947-8ef708b189af" />
+</p>
