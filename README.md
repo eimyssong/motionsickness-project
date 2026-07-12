@@ -1,27 +1,27 @@
 ## 2-Class Conformer + K-Fold
 
 <p align="center">
-  <img width="49%" alt="2-class Conformer K-Fold result 1" src="https://github.com/user-attachments/assets/cb3544ed-34a0-4ab0-b467-30e26afa24b7" />
-  <img width="49%" alt="2-class Conformer K-Fold result 2" src="https://github.com/user-attachments/assets/afad833e-a0a0-4032-953d-ea2be4a209d2" />
+  <img width="49%" alt="2-class Conformer K-Fold result 1" src="ttps://github.com/user-attachments/assets/b88aaacd-6e54-472a-abb5-9865641dc782" />
+  <img width="49%" alt="2-class Conformer K-Fold result 2" src="https://github.com/user-attachments/assets/e0a5db7b-4f9b-4a85-9d79-dd4aa2985258" />
 </p>
 
 ## 2-Class Conformer + DANN + LOOCV
 
 <p align="center">
-  <img width="49%" alt="2-class Conformer DANN LOOCV result 1" src="https://github.com/user-attachments/assets/8f2866ad-3ce1-4937-afdb-e581054602e3" />
-  <img width="49%" alt="2-class Conformer DANN LOOCV result 2" src="https://github.com/user-attachments/assets/159641e1-9dd5-4103-ae0c-dfdeea4865af" />
+  <img width="49%" alt="2-class Conformer DANN LOOCV result 1" src="https://github.com/user-attachments/assets/7826c988-72c6-4ab6-b22b-2b4dd581e1c9" />
+  <img width="49%" alt="2-class Conformer DANN LOOCV result 2" src="https://github.com/user-attachments/assets/b794c598-05c6-4418-a873-f4e43a232752" />
 </p>
 
 ## 3-Class Conformer + K-Fold
 
 <p align="center">
-  <img width="49%" alt="3-class Conformer K-Fold result 1" src="https://github.com/user-attachments/assets/697873c5-6bf3-465f-acd9-b787b2ace8e3" />
-  <img width="49%" alt="3-class Conformer K-Fold result 2" src="https://github.com/user-attachments/assets/26df4bd9-2839-4996-94a5-7b8257c124b9" />
+  <img width="49%" alt="3-class Conformer K-Fold result 1" src="https://github.com/user-attachments/assets/ff7f47f9-896e-4c49-9b32-34d5818ae0fe" />
+  <img width="49%" alt="3-class Conformer K-Fold result 2" src="https://github.com/user-attachments/assets/497c0e18-e399-4626-acbd-2c05f8bd4985" />
 </p>
 
 ## 3-Class Conformer + DANN + LOOCV
 
 <p align="center">
-  <img width="49%" alt="3-class Conformer DANN LOOCV result 1" src="https://github.com/user-attachments/assets/b58241bc-7321-4d4e-af28-07f00fa560f8" />
-  <img width="49%" alt="3-class Conformer DANN LOOCV result 2" src="https://github.com/user-attachments/assets/aaafca3b-18be-4700-b595-175a9a24b204" />
+  <img width="49%" alt="3-class Conformer DANN LOOCV result 1" src="https://github.com/user-attachments/assets/ffef7ea6-e6ed-4a38-b909-bc853f4ef702" />
+  <img width="49%" alt="3-class Conformer DANN LOOCV result 2" src="https://github.com/user-attachments/assets/25d896ae-1b4b-491b-ab3b-f19f41a6e8a3" />
 </p>
