@@ -34,8 +34,9 @@ The code will be made publicly available upon publication of the paper.
 
 ### Saliency
 
-<p align="left">
-  <img height="300" alt="Saliency result" src="https://github.com/user-attachments/assets/8cbe3348-27ae-43e8-9fd1-d4ba43eac091" />
+<p align="center">
+  <img width="49%" alt="saliency result 1" src="https://github.com/user-attachments/assets/82bfede0-6194-4229-98f7-26c8fc911834" />
+  <img width="49%" alt="saliency result 2" src="https://github.com/user-attachments/assets/4a03edb0-5d59-4cec-afc8-73987ab6f95f" />
 </p>
 
 ### Integrated Gradients
@@ -47,22 +48,15 @@ The code will be made publicly available upon publication of the paper.
 ### SHAP
 
 <p align="left">
-  <img height="400" alt="SHAP result 1" src="https://github.com/user-attachments/assets/ff38886b-171b-4aa9-86d6-83e8da8cccdf" />
-  <img height="400" alt="SHAP result 2" src="https://github.com/user-attachments/assets/b120712b-7326-4fd7-a288-6d17f6f2959d" />
+  <img height="500" alt="SHAP result 1" src="https://github.com/user-attachments/assets/ff38886b-171b-4aa9-86d6-83e8da8cccdf" />
+  <img height="500" alt="SHAP result 2" src="https://github.com/user-attachments/assets/b120712b-7326-4fd7-a288-6d17f6f2959d" />
 </p>
 
-### DeepLIFT
 
-<table>
-  <tr>
-    <td>
-      <img height="400" alt="DeepLIFT result 1" src="https://github.com/user-attachments/assets/984b7f17-4fcf-4a9e-a480-9398f3708924" />
-    </td>
-    <td>
-      <img height="400" alt="DeepLIFT result 2" src="https://github.com/user-attachments/assets/c8a906e4-14ce-4d3f-b849-fb7416493797" />
-    </td>
-    <td>
-      <img height="400" alt="DeepLIFT result 3" src="https://github.com/user-attachments/assets/6258cc26-3ee9-443c-a0c2-680274c3a34f" />
-    </td>
-  </tr>
-</table>
+### DeepLIFT
+<p align="center">
+  <img width="34%" alt="deeplift result 1" src="https://github.com/user-attachments/assets/984b7f17-4fcf-4a9e-a480-9398f3708924" />
+  <img width="34%" alt="deeplift result 2" src="https://github.com/user-attachments/assets/c8a906e4-14ce-4d3f-b849-fb7416493797" />
+  <img width="30%" alt="deeplift result 2" src="https://github.com/user-attachments/assets/6258cc26-3ee9-443c-a0c2-680274c3a34f" />
+</p>
+
