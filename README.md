@@ -1,7 +1,7 @@
 ## 2-Class Conformer + K-Fold
 
 <p align="center">
-  <img width="49%" alt="2-class Conformer K-Fold result 1" src="ttps://github.com/user-attachments/assets/b88aaacd-6e54-472a-abb5-9865641dc782" />
+  <img width="49%" alt="2-class Conformer K-Fold result 1" src="https://github.com/user-attachments/assets/b88aaacd-6e54-472a-abb5-9865641dc782" />
   <img width="49%" alt="2-class Conformer K-Fold result 2" src="https://github.com/user-attachments/assets/e0a5db7b-4f9b-4a85-9d79-dd4aa2985258" />
 </p>
 
