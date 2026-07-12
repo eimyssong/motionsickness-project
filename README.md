@@ -53,6 +53,11 @@ The code will be made publicly available upon publication of the paper.
 </p>
 
 
+<p align="left">
+  <img height="200" alt="SHAP result 1" src="https://github.com/user-attachments/assets/e25d2269-fd0a-43be-aaec-6f84387e0b64" />
+  <img height="200" alt="SHAP result 2" src="https://github.com/user-attachments/assets/40321fae-ad23-462c-a70b-97fb1362e72b" />
+</p>
+
 ### DeepLIFT
 <p align="center">
   <img width="34%" alt="deeplift result 1" src="https://github.com/user-attachments/assets/984b7f17-4fcf-4a9e-a480-9398f3708924" />
